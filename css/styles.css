@@ -1,0 +1,26 @@
+/*
+    This is the external stylesheet
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* structural style */
+html {
+  background-color: snow;
+}
+
+body {
+  background-color: ghostwhite;
+  width: 90%;
+  margin: 0 auto;
+  border: 1px solid black;
+  padding: 0 30px 10px;
+}
+
+header {
+  height: 100px;
+}
